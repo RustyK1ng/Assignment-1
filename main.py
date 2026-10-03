@@ -34,15 +34,12 @@ print("CS 1430  |  Introduction to Python  |  UW-Platteville")
 
 # ---------------------- ADD YOUR CODE BELOW THIS LINE ---------------------
 
-print("Kaleb Cousineau")
-BANNER = """
- _______         __ __
-|   |   |.-----.|  |  |.-----.
-|       ||  -__||  |  ||  _  |__
-|___|___||_____||__|__||_____|  |
-                              |_|
- ________              __     __ __
-|  |  |  |.-----.----.|  |.--|  |  |
-|  |  |  ||  _  |   _||  ||  _  |__|
-|________||_____|__|  |__||_____|__|
+KALEB = """
+K   K   AAA   L    EEEEE  BBBB
+K  K   A   A  L    E      B   B
+K K    AAAAA  L    EEEE   BBBB
+K  K   A   A  L    E      B   B
+K   K  A   A  LLLL EEEEE  BBBB
 """
+
+print(KALEB)
